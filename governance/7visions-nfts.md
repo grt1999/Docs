@@ -9,7 +9,7 @@ Holders of the 7visions NFT are entitled to receive a variable reward in USDC, w
 * x%, of the NFT minting cost is allocated to the NFT rewards pool.&#x20;
 * Within this pool, x% is distributed every 24 hours based on the holder's ownership percentage in the NFT pool.&#x20;
 * The remaining balance of the NFT minting cost is directed to the Reserve pool of the protocol Treasury.&#x20;
-* Whenever UNPRL tokens are bought or sold, a percentage of the fees, specifically x%, is allocated to the NFT rewards pool.
+* Whenever 7VFI tokens are bought or sold, a percentage of the fees, specifically x%, is allocated to the NFT rewards pool.
 
 **Benefits and Utility:**
 
