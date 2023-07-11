@@ -26,6 +26,7 @@ description: >-
 ### **Q1/Q2-2024**
 
 * [ ] **Strategic partnerships**
+* [ ] **Fiat on-ramp**
 * [ ] **Presale whitelist**&#x20;
 * [ ] **7Visions NFT presale**
 * [ ] **Private presale round**
