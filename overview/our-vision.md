@@ -1,6 +1,6 @@
 ---
 description: >-
-  UnParallel is poised to revolutionize user engagement in DeFi, fostering
+  7VFI is poised to revolutionize user engagement in DeFi, fostering
   inclusivity, efficiency, and profitability for all participants
 ---
 
@@ -12,4 +12,4 @@ Through the automation of strategic concentrated liquidity provision using advan
 
 We will also actively explore both major and emerging liquid staking protocols to unlock new opportunities for our investors. Our approach involves actively seeking out lucrative opportunities and maximizing returns that go beyond the base Proof-of-Stake (POS) yields. By leveraging automation tools, we ensure that everyone can benefit from the advantages offered by liquid staking derivatives (LSD-Fi projects) and LSD tokens, streamlining the process and enhancing accessibility for all participants.
 
-The UnParalllel Protocol is set to disrupt the DeFi landscape and change the game entirely. By offering a unified platform that combines advanced strategies, democratized access, and automated processes, it will open up new horizons for users to navigate the DeFi space. - insert graph/image
+The 7VFI Protocol is set to disrupt the DeFi landscape and change the game entirely. By offering a unified platform that combines advanced strategies, democratized access, and automated processes, it will open up new horizons for users to navigate the DeFi space. - insert graph/image

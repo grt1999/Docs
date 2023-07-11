@@ -1,12 +1,12 @@
 # Table of contents
 
-* [👋 Welcome to UnParallel](README.md)
+* [👋 Welcome to 7VFI](README.md)
 
 ## Overview
 
 * [🎯 Our Vision](overview/our-vision.md)
-* [💡 The Problem](overview/the-problem.md)
-* [✨ Our Solution](overview/our-solution.md)
+* [💡 The Challenges](overview/the-challenges.md)
+* [✨ Our Solutions](overview/our-solutions.md)
 
 ## OUR EDGE (EXCLUSIVE FEATURES)
 
