@@ -13,7 +13,6 @@
 * [Liquidity Provision Simulator - Unparalleled Revolution](our-edge-exclusive-features/liquidity-provision-simulator-unparalleled-revolution.md)
 * [Real Yield DeFi Protocols Analyzer - Unparalleled Insights](our-edge-exclusive-features/real-yield-defi-protocols-analyzer-unparalleled-insights.md)
 * [Liquid Staking Platform Integration - Unparalleled Frontiers](our-edge-exclusive-features/liquid-staking-platform-integration-unparalleled-frontiers.md)
-* [Risk Management System](our-edge-exclusive-features/risk-management-system.md)
 
 ## FOR INVESTORS
 
