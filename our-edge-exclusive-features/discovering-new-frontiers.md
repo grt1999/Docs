@@ -4,7 +4,7 @@ description: Tapping into the potential of major protocols across prominent netw
 
 # Discovering New Frontiers
 
-Leveraging AI-driven automated tools, our mission is to empower users by leveraging AI-powered automated strategies, facilitating their engagement with top-tier DeFi protocols on various networks. Acting as a conduit, our protocol will strategically deploy capital to foster growth, drive community adoption, and ensure the long-term sustainability of prominent projects within each ecosystem.
+Through account abstraction and leveraging AI-driven automated tools, our mission is to empower users by facilitating their engagement with top-tier DeFi protocols on various networks. Acting as a conduit, our protocol will strategically deploy capital to foster growth, drive community adoption, and ensure the long-term sustainability of prominent projects within each ecosystem.
 
 _<mark style="color:blue;">**Concentrated Liquidity Provision strategy**</mark>_
 
@@ -67,7 +67,7 @@ _<mark style="color:blue;">**Concentrated Liquidity Provision strategy**</mark>_
 
 **Cardano:**
 
-* Uniswap&#x20;
+* n
 * N
 * N
 
