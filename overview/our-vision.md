@@ -1,7 +1,8 @@
 ---
 description: >-
   7VFI is poised to revolutionize user engagement in DeFi, fostering
-  inclusivity, efficiency, and profitability for all participants
+  inclusivity, efficiency, and profitability for all participants. Uniting AI
+  and DeFi for Unprecedented Possibilities.
 ---
 
 # 🎯 Our Vision
