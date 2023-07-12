@@ -6,7 +6,7 @@ description: Unlocking Continuous Yield Generation
 
 Our strategy of continuous yield generation involves identifying and capitalizing on opportunities across various projects and protocols in the DeFi space.
 
-By leveraging the compound interest effect and employing a dynamic money legos approach, we are able to generate consistent returns and reinvest them back into the ecosystem (STRATEGY FLOW). This approach allows us to maximize the potential for growth and create a virtuous cycle of profitability.
+By leveraging the compound interest effect and employing a dynamic money legos approach, we are able to generate consistent returns and reinvest them back into the ecosystem. This approach allows us to maximize the potential for growth and create a virtuous cycle of profitability.
 
 <figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
