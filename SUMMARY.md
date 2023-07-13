@@ -1,6 +1,6 @@
 # Table of contents
 
-* [👋 Welcome to 7VFI](README.md)
+* [👋 Welcome to 7VFI.AI](README.md)
 
 ## Overview
 
