@@ -51,6 +51,7 @@ _<mark style="color:blue;">**Concentrated Liquidity Provision strategy**</mark>_
 * Trader Joe
 * KyberSwap
 * PancakeSwap
+* Uniswap
 
 **Solana:**
 

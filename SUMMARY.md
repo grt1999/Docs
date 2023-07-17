@@ -10,18 +10,18 @@
 
 ## OUR EDGE (EXCLUSIVE FEATURES)
 
-* [Liquidity Provision Simulator - Unparalleled Revolution](our-edge-exclusive-features/liquidity-provision-simulator-unparalleled-revolution.md)
-* [Real Yield DeFi Protocols Analyzer - Unparalleled Insights](our-edge-exclusive-features/real-yield-defi-protocols-analyzer-unparalleled-insights.md)
-* [Liquid Staking Platform Integration - Unparalleled Frontiers](our-edge-exclusive-features/liquid-staking-platform-integration-unparalleled-frontiers.md)
-* [Discovering New Frontiers](our-edge-exclusive-features/discovering-new-frontiers.md)
+* [🛠 Getting started](our-edge-exclusive-features/getting-started.md)
+* [Liquidity Provision Simulator - AI Liquidity Master](our-edge-exclusive-features/liquidity-provision-simulator-ai-liquidity-master.md)
+* [Real Yield DeFi Protocols Analyzer - Rank Select](our-edge-exclusive-features/real-yield-defi-protocols-analyzer-rank-select.md)
+* [Liquid Staking Platform Integration - Venue Flow](our-edge-exclusive-features/liquid-staking-platform-integration-venue-flow.md)
 
 ## FOR INVESTORS
 
-* [🛠 Getting started](for-investors/getting-started.md)
-* [🌎 Unparalleled Revolution](for-investors/unparalleled-revolution.md)
-* [🎓 Unparalleled Insights](for-investors/unparalleled-insights.md)
-* [🔎 Unparalleled Frontiers](for-investors/unparalleled-frontiers.md)
-* [💸 Unparalleled Horizons](for-investors/unparalleled-horizons.md)
+* [🌎 AI Liquidity Master](for-investors/ai-liquidity-master.md)
+* [🎓 Rank Select](for-investors/rank-select.md)
+* [🔎 Venue Flow](for-investors/venue-flow.md)
+* [💸 Yield Supercharger](for-investors/yield-supercharger.md)
+* [Discovering New Frontiers](for-investors/discovering-new-frontiers.md)
 
 ## Tokenomics
 
