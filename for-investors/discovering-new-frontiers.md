@@ -87,15 +87,12 @@ _<mark style="color:blue;">**Real Yield DeFi protocols**</mark>_
 
 **Ethereum mainnet:**&#x20;
 
-* Uniswap
-* Sushi
-* Maverick Protocol
-* KyberSwap
-* PancakeSwap
+* DYDX
+* FRAX
 
 **Polygon PoS/zkEVM:**
 
-* Uniswap
+* Gains Network
 * QuickSwap
 * PancakeSwap
 * BonsaiSwap
@@ -112,8 +109,8 @@ _<mark style="color:blue;">**Real Yield DeFi protocols**</mark>_
 
 **Arbitrum:**
 
-* Uniswap&#x20;
-* Trader Joe
+* GMX
+* Gains Network
 * Camelot
 * ZyberSwap
 * KyberSwap
@@ -125,7 +122,7 @@ _<mark style="color:blue;">**Real Yield DeFi protocols**</mark>_
 
 **Avalanche:**
 
-* Trader Joe
+* GMX
 * KyberSwap
 * PancakeSwap
 

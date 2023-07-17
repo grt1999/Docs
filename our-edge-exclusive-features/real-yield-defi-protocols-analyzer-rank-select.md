@@ -2,7 +2,7 @@
 description: 'Curating Excellence: Selecting Only the Best in DeFi'
 ---
 
-# Real Yield DeFi Protocols Analyzer - Unparalleled Insights
+# Real Yield DeFi Protocols Analyzer - Rank Select
 
 Real Yield refers to the yield generated from "real" revenue sources, such as transaction fees or user activity, rather than relying on token emissions or artificial incentives. Unlike receiving highly speculative tokens, users are typically paid in blue-chip tokens like ETH or stablecoins, providing a more stable and reliable income stream. Additionally, these protocols usually incorporate a fair and transparent fee distribution mechanism, where the fees collected on the platform are distributed to token holders, users, and investors, ensuring that they directly benefit from the protocol's success. Our scoring system acknowledges that protocols offering inflated APRs (Annual percentage rate) through token emissions may attract liquidity in the short term, but sustainable revenue generation is crucial for long-term success.
 
@@ -10,7 +10,7 @@ Our Analyzer is a robust tool that employs a multi-layered approach to assess an
 
 Our scoring formula considers various factors, including:
 
-* Revenue Generation Model RANKING????? CHECK FICO/TRANSUNION & EQUIFAX CREDIT CA
+* Revenue Generation Model&#x20;
 * Longevity and Risk-Adjusted Growth
 * Tokenomics
 * User Adoption and Community

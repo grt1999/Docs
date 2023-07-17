@@ -54,4 +54,6 @@
 ## OTHER
 
 * [Audits](other/audits.md)
+* [Contracts](other/contracts.md)
 * [Team](other/team.md)
+* [Disclaimer](other/disclaimer.md)
