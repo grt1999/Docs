@@ -42,15 +42,6 @@
 
 * [Frequently Asked Questions](faq/frequently-asked-questions.md)
 
-## JOIN OUR COMMUNITY
-
-* [Page 2](join-our-community/page-2.md)
-
-## Use Cases
-
-* [🎨 WIP](use-cases/wip.md)
-* [🖥 For Developers](use-cases/for-developers.md)
-
 ## OTHER
 
 * [Audits](other/audits.md)
