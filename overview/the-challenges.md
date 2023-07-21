@@ -14,7 +14,7 @@ The intricacies of managing a position as a liquidity provider, coupled with the
 
 **2.**
 
-<figure><img src="../.gitbook/assets/image (5) (1).png" alt=""><figcaption><p> <a href="https://www.cryptopolitan.com/crypto-rug-pulls-soar-exceeding-defi-hacks/">https://www.cryptopolitan.com/crypto-rug-pulls-soar-exceeding-defi-hacks/</a></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5) (1) (1).png" alt=""><figcaption><p> <a href="https://www.cryptopolitan.com/crypto-rug-pulls-soar-exceeding-defi-hacks/">https://www.cryptopolitan.com/crypto-rug-pulls-soar-exceeding-defi-hacks/</a></p></figcaption></figure>
 
 Choosing reliable and secure protocols is of utmost importance in the crypto space, especially with the rising number of rug pulls and scams. Conducting a detailed code review, assessing smart contract risks, and prioritizing long-term security over short-term gains are essential steps to mitigate these risks. Some factors, such as the ones mentioned below, are crucial for evaluating protocols and their leadership:
 
