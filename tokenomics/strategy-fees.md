@@ -1,6 +1,6 @@
 # 📑 Strategy Fees
 
-* **AI Liquidity Master:** 2% access fee and a 7% withdrawal fee.
-* **Rank Select:** 2% lead generation fee.
-* **Venue Flow:**  2% access fee.
-* **Yield Supercharger:** 2% access fee and a 14% withdrawal fee.
+* **AI Liquidity Master:** 3% access fee and a 20% withdrawal fee.
+* **Rank Select:** 5% lead generation fee.
+* **Venue Flow:**  5% lead generation fee and a 20% withdrawal fee.
+* **Yield Supercharger:** 5% access fee and a 30% withdrawal fee.
