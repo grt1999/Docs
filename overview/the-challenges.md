@@ -29,7 +29,7 @@ However, performing such due diligence is often challenging for the average user
 
 **3.**
 
-<figure><img src="../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption><p><a href="https://finance.yahoo.com/news/defi-overcome-stench-shitcoins-ponzinomics-030400207.html">https://finance.yahoo.com/news/defi-overcome-stench-shitcoins-ponzinomics-030400207.html</a></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption><p><a href="https://finance.yahoo.com/news/defi-overcome-stench-shitcoins-ponzinomics-030400207.html">https://finance.yahoo.com/news/defi-overcome-stench-shitcoins-ponzinomics-030400207.html</a></p></figcaption></figure>
 
 The DeFi landscape faces a significant challenge with the proliferation of Ponzi-like schemes and unsustainable token distributions. These Ponzi-esque schemes present a major problem for the ecosystem. They not only undermine the integrity of the industry but also pose significant risks for users. The excessive reliance on token emissions and manipulative strategies leads to an unsustainable cycle, where the value of these tokens rapidly depreciates once the unsustainable practices comes to light.&#x20;
 
