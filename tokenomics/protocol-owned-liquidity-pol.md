@@ -6,4 +6,4 @@
 * Liquidity retention with reduced emissions;
 * Protocol will retain trading fees;
 * Treasury assets will generate revenue for the protocol;
-* Higher scale in the treasury will allow more trades with less price impact.
+* Higher scale in our treasury will gradually allow more trades with less price impact.

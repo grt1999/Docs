@@ -1,6 +1,6 @@
 # 📪 Token Details
 
-The platform fees collected on 7VFI token transactions and portfolio management activities will primarily benefit 7VFI token holders. In addition to performance fees, these holders will enjoy a significant share of the platform's fee revenue.
+The platform fees collected on 7VFI token transactions and "portfolio management activities" will primarily benefit 7VFI token holders. In addition to performance fees, these holders will enjoy a significant share of the platform's fee revenue.
 
 **Long-term Deflationary Token:**
 
@@ -28,7 +28,5 @@ The platform fees collected on 7VFI token transactions and portfolio management 
 **Contract Address:** 0x...
 
 **Decimals:** 18&#x20;
-
-**Transfer tax:** x%&#x20;
 
 **Tracker:** https://

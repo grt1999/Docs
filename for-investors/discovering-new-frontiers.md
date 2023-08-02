@@ -81,73 +81,39 @@ _<mark style="color:blue;">**Concentrated Liquidity Provision strategy**</mark>_
 
 _<mark style="color:blue;">**Real Yield DeFi protocols**</mark>_
 
-**Ethereum mainnet:**&#x20;
-
 * DYDX
-* FRAX
-
-**Polygon PoS/zkEVM:**
-
-* Gains Network
-* QuickSwap
-* PancakeSwap
-* BonsaiSwap
-* KyberSwap
-
-**Binance Smart Chain:**&#x20;
-
-* Uniswap
-* PancakeSwap
-* Trader Joe
-* BiSwap
-* Thena.fi
-* KyberSwap
-
-**Arbitrum:**
-
+* Frax
+* Curve
+* Convex Finance
 * GMX
 * Gains Network
-* Camelot
-* ZyberSwap
-* KyberSwap
+* Synthetix
+* Umami&#x20;
+* LooksRare
+* Polynomial
+* Ribbon Finance
+* Dopex
+* Redacted Finance
+* Beefy
+* Kujira
 
-**Optimism:**&#x20;
+_<mark style="color:blue;">**Liquid staking**</mark>_&#x20;
 
-* Uniswap&#x20;
-* KyberSwap
-
-**Avalanche:**
-
-* GMX
-* KyberSwap
-* PancakeSwap
-
-**Solana:**
-
-* Orca
-* Raydium
-* KyberSwap
-* Lifinity
-
-**zkSync Era:**&#x20;
-
-* Maverick Protocol
-* KyberSwap
-* Synthswap
-
-**Cardano:**
-
-* Uniswap&#x20;
-* N
-* N
-
-**Fantom:**
-
-* KyberSwap
-* N
-* N
-
-**Celo:**
-
-* Uniswap&#x20;
-* Ubeswap
+* Lido
+* Rocket Pool
+* Ankr
+* Frax
+* Stakewise
+* Cream Finance
+* Gogopool
+* Marinade
+* Stader Labs
+* Alluvial
+* Diva Labs
+* Tranchess
+* Parallel
+* Acala&#x20;
+* Benqi
+* Eigen Layer
+* Kava
+* Folks Finance
