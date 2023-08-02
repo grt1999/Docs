@@ -68,15 +68,11 @@ _<mark style="color:blue;">**Concentrated Liquidity Provision strategy**</mark>_
 
 **Cardano:**
 
-* n
-* N
-* N
+*
 
 **Fantom:**
 
 * KyberSwap
-* N
-* N
 
 **Celo:**
 

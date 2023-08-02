@@ -7,6 +7,7 @@ The platform fees collected on 7VFI token transactions and portfolio management 
 * Based on growth and performance
 * Buyback & burn mechanisms: 5% of strategy profit performance fees will be used for token buyback and burn
 * 10% of fees generated from token swap will be used to pay stakers and lock liquidity
+* 1% of the profit generated from strategy fees will be donated to institutions and NGOs, aiming to support the education and professional development of young individuals who aspire to pursue a career in the technology sector but face barriers to access
 
 **Staking:** Lock-up periods of 6, 12, 18 or 24 months. Rewards paid in USDC.
 

@@ -1,5 +1,5 @@
 ---
-description: Shaping the Evolution of Decentralized Finance. Beyond comparison.
+description: Shaping the Evolution of Decentralized Finance.
 ---
 
 # 👋 Welcome to 7VFI.AI
