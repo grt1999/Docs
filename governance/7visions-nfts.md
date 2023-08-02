@@ -7,7 +7,6 @@ Our NFTs grant special privileges to investors. Each wallet can own only one 7Vi
 Holders of the 7visions NFT are entitled to receive a variable reward in USDC, which is determined by their ownership percentage of the NFT pool.
 
 * 5%, of the NFT minting cost is allocated to the NFT rewards pool.&#x20;
-* Within this pool, x% is distributed every 24 hours based on the holder's ownership percentage in the NFT pool.&#x20;
 * The remaining balance of the NFT minting cost is directed to the Reserve pool of the protocol Treasury.&#x20;
 * Whenever 7VFI tokens are bought or sold, a percentage of the fees, specifically 5%, is allocated to the NFT rewards pool.
 
