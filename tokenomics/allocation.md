@@ -1,6 +1,6 @@
 # 📎 Allocation
 
-A portion of the token supply, representing 10%, will be made available for sale in a private presale round. Another portion, representing 10%, will be offered in public presale rounds. Additionally, 5% of the supply will be allocated to establish the initial liquidity upon launch.
+A portion of the token supply, representing 10%, will be made available for sale in a private allocation round. Another portion, representing 10%, will be offered in public allocation rounds. Additionally, 5% of the supply will be allocated to establish the initial liquidity upon launch.
 
 Furthermore, 30% of the token supply will be reserved for the team and advisors, while another 5% will be dedicated to supporting marketing initiatives and research and development (R\&D) endeavors.
 
