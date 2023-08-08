@@ -1,8 +1,11 @@
 # 7Visions NFTs
 
-Our NFTs grant special privileges to investors. Each wallet can own only one 7Visions NFT, ensuring a unique and limited ownership experience.&#x20;
+For every $20,000 (meaning 1 minted NFT), it will equate to one vote, and no entity/individual can possess more than 5% of the total votes.
 
-<table data-header-hidden><thead><tr><th width="117"></th><th width="98"></th><th width="88"></th><th width="135"></th><th></th></tr></thead><tbody><tr><td><strong>NFT</strong></td><td><strong>Value (USDC)</strong></td><td><strong>Max Supply</strong></td><td><strong>Total Value</strong></td><td><strong>Ownership (% of NFT pool)</strong></td></tr><tr><td>Core</td><td>20,000</td><td>1000</td><td>$20,000,000</td><td>-%</td></tr></tbody></table>
+|              |                  |                |                 |   |
+| ------------ | ---------------- | -------------- | --------------- | - |
+| **NFT Type** | **Value (USDC)** | **Max Supply** | **Total Value** |   |
+| Core         | 20,000           | 1000           | $20,000,000     |   |
 
 Holders of the 7visions NFT are entitled to receive a variable reward in USDC, which is determined by their ownership percentage of the NFT pool.
 
