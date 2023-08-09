@@ -38,10 +38,6 @@
 
 * [Development Timeline](roadmap/development-timeline.md)
 
-## FAQ
-
-* [Frequently Asked Questions](faq/frequently-asked-questions.md)
-
 ## OTHER
 
 * [Audits](other/audits.md)
