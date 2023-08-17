@@ -10,25 +10,39 @@ description: >-
 
 * [x] **Theoretical foundation**
 * [x] **Concept development**
-* [x] **Whitepaper Release**
 * [x] **Data aggregation**
-* [ ] **On-chain analytics database infrastructure**
+* [x] **On-chain analytics database infrastructure**
 
 ### **Q3/Q4-2023**
 
-* [ ] **Quantitative model(s) development**
-* [ ] **Risk metrics evaluation**
-* [ ] **Hedging tools integration**
-* [ ] **Certik audit**
-* [ ] **Team expansion**
-* [ ] **Launch Website and dApp**
+* [x] **Whitepaper release**
+* [x] **Strategic partnerships & Grants**
+* [ ] **Initial fundraising**
+* [ ] **Launch website**
+* [ ] **NFT private placement**
+* [ ] **Audit**
 
 ### **Q1/Q2-2024**
 
-* [ ] **Strategic partnerships**
+* [ ] **Private allocation round**
+* [ ] **Public allocation round**
+* [ ] **Token generation event (TGE)**
+* [ ] **Launch dApp**
+
+### **Q3/Q4-2024**
+
+* [ ] **AI Liquidity Master launch**
+* [ ] **Rank Select launch**
 * [ ] **Fiat on-ramp**
-* [ ] **Presale whitelist**&#x20;
-* [ ] **7Visions NFT presale**
-* [ ] **Private presale round**
-* [ ] **Public presale round**
-* [ ] **More to come**
+* [ ] **Venue Flow launch**
+
+### **Q1/Q2-2025**
+
+* [ ] **Yield Supercharger launch**
+* [ ] **Extended roadmap reveal**
+
+### **Q3/Q4-2025**
+
+* [ ] **New products unveiling**
+* [ ] **More to come..**
+
