@@ -2,7 +2,7 @@
 
 For every $20,000 (1 minted NFT), it will equate to one vote, and no entity/individual can possess more than 5% of the total votes.
 
-<table data-full-width="true"><thead><tr><th width="144"></th><th width="151"></th><th width="172"></th><th width="164"></th></tr></thead><tbody><tr><td><strong>NFT Type</strong></td><td><strong>Value (USDC)</strong></td><td><strong>Max Supply</strong></td><td><strong>Total Value</strong></td></tr><tr><td>Core</td><td>20,000</td><td>1000</td><td>$20,000,000</td></tr></tbody></table>
+<table data-full-width="true"><thead><tr><th width="190"></th><th width="226"></th><th width="184"></th><th width="164"></th></tr></thead><tbody><tr><td><strong>NFT Type</strong></td><td><strong>Value (USDC)</strong></td><td><strong>Max Supply</strong></td><td><strong>Total Value</strong></td></tr><tr><td>Core</td><td>20,000</td><td>1000</td><td>$20,000,000</td></tr></tbody></table>
 
 **Benefits and Utility:**
 
