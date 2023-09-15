@@ -68,7 +68,9 @@ _<mark style="color:blue;">**Concentrated Liquidity Provision strategy**</mark>_
 
 **Cardano:**
 
-*
+* SundaeSwap
+* Minswapp
+* VyFinance
 
 **Fantom:**
 
@@ -78,6 +80,14 @@ _<mark style="color:blue;">**Concentrated Liquidity Provision strategy**</mark>_
 
 * Uniswap&#x20;
 * Ubeswap
+
+**Base:**
+
+* Aerodrome
+
+**Starknet:**
+
+* JediSwap
 
 _<mark style="color:blue;">**Real Yield DeFi protocols**</mark>_
 
