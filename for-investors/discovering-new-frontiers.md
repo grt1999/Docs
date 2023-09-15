@@ -69,7 +69,7 @@ _<mark style="color:blue;">**Concentrated Liquidity Provision strategy**</mark>_
 **Cardano:**
 
 * SundaeSwap
-* Minswapp
+* Minswap
 * VyFinance
 
 **Fantom:**
