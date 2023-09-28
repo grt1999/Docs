@@ -29,6 +29,7 @@
 * [📑 Strategy Fees](tokenomics/strategy-fees.md)
 * [🔒 Protocol owned liquidity (POL)](tokenomics/protocol-owned-liquidity-pol.md)
 * [📎 Allocation](tokenomics/allocation.md)
+* [💲 Staking Module](tokenomics/staking-module.md)
 
 ## GOVERNANCE
 
