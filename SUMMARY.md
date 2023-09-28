@@ -21,7 +21,7 @@
 * [🎓 Rank Select](for-investors/rank-select.md)
 * [🔎 Venue Flow](for-investors/venue-flow.md)
 * [💸 Yield Supercharger](for-investors/yield-supercharger.md)
-* [Discovering New Frontiers](for-investors/discovering-new-frontiers.md)
+* [🌅 Discovering New Frontiers](for-investors/discovering-new-frontiers.md)
 
 ## Tokenomics
 

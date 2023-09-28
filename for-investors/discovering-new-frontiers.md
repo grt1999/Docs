@@ -2,11 +2,11 @@
 description: Tapping into the potential of major protocols across prominent networks
 ---
 
-# Discovering New Frontiers
+# 🌅 Discovering New Frontiers
 
 Through account abstraction and leveraging AI-driven automated tools, our mission is to empower users by facilitating their engagement with top-tier DeFi protocols on various networks. Acting as a conduit, our protocol will strategically deploy capital to foster growth, drive community adoption, and ensure the long-term sustainability of prominent projects within each ecosystem.
 
-_<mark style="color:blue;">**Concentrated Liquidity Provision strategy**</mark>_
+_<mark style="color:blue;">**Strategic Liquidity Provision**</mark>_&#x20;
 
 **Ethereum mainnet:**&#x20;
 
