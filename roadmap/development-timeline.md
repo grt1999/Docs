@@ -17,8 +17,9 @@ description: >-
 
 * [x] **Whitepaper release**
 * [x] **Strategic partnerships & Grants**
+* [x] **Launch website**
 * [ ] **Initial fundraising**
-* [ ] **Launch website**
+* [ ] **Legal compliance**
 * [ ] **NFT private placement**
 * [ ] **Audit**
 
@@ -34,15 +35,23 @@ description: >-
 * [ ] **AI Liquidity Master launch**
 * [ ] **Rank Select launch**
 * [ ] **Fiat on-ramp**
-* [ ] **Venue Flow launch**
 
 ### **Q1/Q2-2025**
 
-* [ ] **Yield Supercharger launch**
-* [ ] **Extended roadmap reveal**
+* [ ] **Venue Flow launch**
+* [ ] **Product Improvements**
 
 ### **Q3/Q4-2025**
 
-* [ ] **New products unveiling**
-* [ ] **More to come..**
+* [ ] **Extended roadmap reveal**
+* [ ] **Yield Supercharger launch**
 
+### **Q1/Q2-2026**
+
+* [ ] **Starting of contract ownership renouncement for existing products**
+* [ ] **New products unveiling**
+
+### **Q3/Q4-2026**
+
+* [ ] **Open access for Devs**
+* [ ] **More to come..**
