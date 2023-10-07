@@ -1,10 +1,11 @@
 ---
 description: >-
-  The Obstacle: Simplifying complexity in liquidity management activities,
-  securing superior yields with rigorous protocol and token selection
+  The Obstacle: Simplifying complexity in liquidity management activities, in
+  order for users to acess superior yields based on rigorous protocol and token
+  selection
 ---
 
-# 💡 The Challenges
+# 💡 The Problem
 
 **1.**
 
