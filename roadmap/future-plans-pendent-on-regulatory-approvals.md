@@ -1,4 +1,8 @@
-# Page
+---
+description: Staking & DAO Modules
+---
+
+# Future Plans (Pendent on Regulatory Approvals)
 
 The DAO Reserves receive contributions from 75% of the protocol's generated yield. These reserves serve as the source of funding for various operational expenses incurred by the DAO, which encompass:
 

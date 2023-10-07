@@ -1,0 +1,9 @@
+# 📅 Donation Event
+
+**How it works:** By utilizing $ETH, $WBTC, $USDC and/or $USDT, contributors can donate tokens during a \[90-day] period, when the Community Donation Pool is active.
+
+During the donation campaign period, contributors can conduct an evaluation to assess whether the project aligns with their values and goals. If the evaluation is favorable, the participant will be able to support the project by contributing supported tokens to the Donation Pool Fund. Control over the tokens in the Donation Pool Fund is maintained by 7VFI.AI smart contracts.
+
+By participating in the community donation pool, contributors gain access to automated strategies, receiving utility tokens that grant access to the platform resources at a discount on the launch price. The distribution of utility $7VFI tokens is carried out on a pro rata basis, where the amount received is directly proportional to the contribution made.
+
+_The act of donation does not grant the donor any privileges related to the governance, financial, or managerial aspects of the project. By participating in this initiative, donors acknowledge that their contribution is a voluntary gesture of support and does not establish any contractual obligations, ownership stakes, or decision-making authority within the project's ecosystem. No assurance is given as to the future performance or value of the 7VFI tokens, nor the Protocol. The functionalities of the modules covered by the Protocol do not characterize and should not be understood as an investment recommendation. This document does not constitute an offer to sell, prospectus, disclosure document or solicitation to buy any investment or financial instrument. 7VFI tokens should not be possessed with the expectation that it will make an investment return. Engaging in any cryptocurrency projects bears considerable risk and may involve exceptional risk that may lead to loss of all or a substantial part of your contribution._

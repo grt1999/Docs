@@ -22,6 +22,7 @@
 * [📪 Token Details](tokenomics/token-details.md)
 * [📑 Strategy Fees](tokenomics/strategy-fees.md)
 * [📎 Allocation](tokenomics/allocation.md)
+* [📅 Donation Event](tokenomics/donation-event.md)
 
 ## GOVERNANCE
 
@@ -30,10 +31,10 @@
 ## ROADMAP
 
 * [Development Timeline](roadmap/development-timeline.md)
-* [Page](roadmap/page.md)
+* [Future Plans (Pendent on Regulatory Approvals)](roadmap/future-plans-pendent-on-regulatory-approvals.md)
 
 ## OTHER
 
-* [Audits](other/audits.md)
-* [Contracts](other/contracts.md)
+* [Security](other/security.md)
+* [Audit Reports](other/audit-reports.md)
 * [Disclaimer](other/disclaimer.md)
