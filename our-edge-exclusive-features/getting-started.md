@@ -10,4 +10,4 @@ Users will have the flexibility to individually participate in our three main mo
 * **"Rank Select"**, granting access to our proprietary Analyzer Scorecard for real yield protocols.
 * **"Venue Flow"**, where we streamline the process of finding the best venues for liquid staking tokens across various DeFi protocols, allowing investors to adopt a "set it and forget it" approach.&#x20;
 
-As the crown jewel of our platform, **"Yield Supercharger "** takes investor funds and strategically allocates to top liquidity pools, ensuring a blend of security and high returns. The fees generated from these pools are intelligently reinvested into other secondary strategies boosting yields and enabling aggressive returns through a continuous yield generation process.&#x20;
+As the crown jewel of our platform, the next product to be developed will be the 7VFI.AI Yield Supercharger – which will take investor funds and strategically allocate to top liquidity pools. The fees generated from these pools will be intelligently reinvested into other secondary strategies boosting yields through a continuous yield generation and recycling process.&#x20;
