@@ -4,9 +4,9 @@ description: Tapping into the potential of major protocols across prominent netw
 
 # 🌅 Discovering New Frontiers
 
-Through account abstraction and leveraging AI-driven automated tools, our mission is to empower users by facilitating their engagement with top-tier DeFi protocols on various networks. Acting as a conduit, our protocol will strategically deploy capital to foster growth, drive community adoption, and ensure the long-term sustainability of prominent projects within each ecosystem.
+Through account abstraction and leveraging AI-driven automated bots & tools, our mission is to empower users by facilitating their engagement with top-tier DeFi protocols on various networks. Acting as a conduit, the 7VFI.AI protocol will strategically deploy capital according to users’ selected risk profile to foster growth, drive community adoption, and contribute to the long-term sustainability of the DeFi ecosystem.
 
-_<mark style="color:blue;">**Strategic Liquidity Provision**</mark>_&#x20;
+_<mark style="color:blue;">**Target Protocols for 7VFI.AI – AI Liquidity Master:**</mark>_
 
 **Ethereum mainnet:**&#x20;
 
@@ -89,7 +89,7 @@ _<mark style="color:blue;">**Strategic Liquidity Provision**</mark>_&#x20;
 
 * JediSwap
 
-_<mark style="color:blue;">**Real Yield DeFi protocols**</mark>_
+_<mark style="color:blue;">**Target Protocols for 7VFI.AI – Rank Select:**</mark>_
 
 * DYDX
 * Frax
@@ -107,7 +107,7 @@ _<mark style="color:blue;">**Real Yield DeFi protocols**</mark>_
 * Beefy
 * Kujira
 
-_<mark style="color:blue;">**Liquid staking**</mark>_&#x20;
+_<mark style="color:blue;">**Target Protocols for 7VFI.AI – Venue Flow:**</mark>_
 
 * Lido
 * Rocket Pool
