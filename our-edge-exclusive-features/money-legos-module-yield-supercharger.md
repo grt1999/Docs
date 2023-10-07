@@ -2,7 +2,7 @@
 description: Unlocking Continuous Yield Generation
 ---
 
-# 💸 Yield Supercharger
+# Money-Legos Module - Yield Supercharger
 
 Our strategy of continuous yield generation involves identifying and capitalizing on opportunities across various projects and protocols in the DeFi space.
 

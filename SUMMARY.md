@@ -14,14 +14,8 @@
 * [Liquidity Provision Simulator - AI Liquidity Master](our-edge-exclusive-features/liquidity-provision-simulator-ai-liquidity-master.md)
 * [Real Yield DeFi Protocols Analyzer - Rank Select](our-edge-exclusive-features/real-yield-defi-protocols-analyzer-rank-select.md)
 * [Liquid Staking Platform Integration - Venue Flow](our-edge-exclusive-features/liquid-staking-platform-integration-venue-flow.md)
-
-## FOR INVESTORS
-
-* [🌎 AI Liquidity Master](for-investors/ai-liquidity-master.md)
-* [🎓 Rank Select](for-investors/rank-select.md)
-* [🔎 Venue Flow](for-investors/venue-flow.md)
-* [💸 Yield Supercharger](for-investors/yield-supercharger.md)
-* [🌅 Discovering New Frontiers](for-investors/discovering-new-frontiers.md)
+* [Money-Legos Module - Yield Supercharger](our-edge-exclusive-features/money-legos-module-yield-supercharger.md)
+* [🌅 Discovering New Frontiers](our-edge-exclusive-features/discovering-new-frontiers.md)
 
 ## Tokenomics
 
