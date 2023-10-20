@@ -19,10 +19,10 @@
 
 ## Tokenomics
 
-* [📪 Token Details](tokenomics/token-details.md)
-* [📑 Strategy Fees](tokenomics/strategy-fees.md)
-* [📎 Allocation](tokenomics/allocation.md)
-* [📅 Donation Event](tokenomics/donation-event.md)
+* [Token Details](tokenomics/token-details.md)
+* [Strategy Fees](tokenomics/strategy-fees.md)
+* [Allocation](tokenomics/allocation.md)
+* [Donation Event](tokenomics/donation-event.md)
 
 ## GOVERNANCE
 
@@ -35,6 +35,6 @@
 
 ## OTHER
 
-* [Security](other/security.md)
-* [Audit Reports](other/audit-reports.md)
-* [Disclaimer](other/disclaimer.md)
+* [🔐 Security](other/security.md)
+* [📄 Audit Reports](other/audit-reports.md)
+* [🛑 Disclaimer](other/disclaimer.md)
