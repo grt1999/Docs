@@ -31,7 +31,7 @@
 ## ROADMAP
 
 * [Development Timeline](roadmap/development-timeline.md)
-* [Future Plans (Pendent on Regulatory Approvals)](roadmap/future-plans-pendent-on-regulatory-approvals.md)
+* [Future Modules](roadmap/future-modules.md)
 
 ## OTHER
 
