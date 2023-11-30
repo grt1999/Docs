@@ -18,7 +18,7 @@ Through monthly token minting alongside daily token burning, 7VFI.AI aims to pro
 
 **Symbol:** 7VFI.
 
-**Maximum Circulating Supply:** 1,000,000,000.
+**Circulating Supply:** 1,000,000,000.
 
 **Initial Token Issuance:** 40,000,000.
 
