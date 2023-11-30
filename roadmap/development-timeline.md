@@ -32,8 +32,8 @@ description: >-
 
 ### **Q3/Q4-2024**
 
-* [ ] **AI Liquidity Master launch**
 * [ ] **Rank Select launch**
+* [ ] **AI Liquidity Master launch**
 * [ ] **Fiat on-ramp**
 
 ### **Q1/Q2-2025**
