@@ -1,4 +1,4 @@
-# 📅 Donation Event
+# Donation Event
 
 **How it works:** By utilizing $ETH, $WBTC, $USDC and/or $USDT, contributors can donate tokens during a \[90-day] period, when the Community Donation Pool is active.
 

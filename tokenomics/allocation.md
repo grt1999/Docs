@@ -1,4 +1,4 @@
-# 📎 Allocation
+# Allocation
 
 A portion of the token supply, representing 31%, will be offered in public allocation rounds. Additionally, 5% of the supply will be allocated to establish the initial liquidity upon launch.
 

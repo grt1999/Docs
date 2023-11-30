@@ -4,7 +4,7 @@ description: >-
   Quantitative Economics (MQE) Applied Project team.
 ---
 
-# 📪 Token Details
+# Token Details
 
 In essence, 7VFI.AI is primarily designed as an access utility token, ensuring users can fully engage with the ecosystem. The goal is to ensure a stable TVL growth and to achieve a gradual increase in value of the token and its utility for users.
 
