@@ -2,7 +2,7 @@
 description: 'Curating Excellence: Selecting Only the Best in DeFi'
 ---
 
-# 7VFI.AI - Scorecard Analyzer: Rank Select
+# 7VFI.AI - Protocol Analyzer Scorecard: Rank Select
 
 Real Yield refers to the yield generated from "real" revenue sources, such as transaction fees or user activity, rather than relying on token emissions or artificial incentives. Unlike receiving highly speculative tokens, users are typically paid in blue-chip tokens like ETH or stablecoins, providing a more stable and reliable income stream. Additionally, these protocols usually incorporate a fair and transparent fee distribution mechanism, where the fees collected on the platform are distributed to token holders and users, ensuring that they directly benefit from the protocol's success. Our scoring system acknowledges that protocols offering inflated APRs (Annual percentage rate) through token emissions may attract liquidity in the short term, but sustainable revenue generation is crucial for long-term success.
 
@@ -23,4 +23,4 @@ By applying this scoring system, our 7VFI.AI Rank Select tool identifies and hig
 
 The 7VFI.AI Rank Select provides valuable insights through analyzing protocols, and simplifying the process of selecting sustainable Real Yield DeFi protocols. By evaluating crucial factors like transparency, security, and revenue streams, this A.I. tool empower users, from blockchain novices to experienced users, to navigate the complex landscape with ease. The 7VFI.AI Rank Select goal is to simplify the "Do Your Own Research" (DYOR) process for users of all levels of expertise in the DeFi space.
 
-**Forward-moving plans:** 7VFI.AI aims to provide in addition to real yield DeFi protocols analyzer, a scorecard for RWA protocols, opportunities for yield on centralized exchanges, and exploration of the NFT ecosystem, GameFi and Metaverse.
+**Forward-moving plans:** 7VFI.AI aims to provide in addition to opportunities for yield on centralized exchanges, and exploration of NFT ecosystems, GameFi & Metaverses.
