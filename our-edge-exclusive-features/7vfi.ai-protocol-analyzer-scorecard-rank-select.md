@@ -23,4 +23,4 @@ By applying this scoring system, our 7VFI.AI Rank Select tool identifies and hig
 
 The 7VFI.AI Rank Select provides valuable insights through analyzing protocols, and simplifying the process of selecting sustainable Real Yield DeFi protocols. By evaluating crucial factors like transparency, security, and revenue streams, this A.I. tool empower users, from blockchain novices to experienced users, to navigate the complex landscape with ease. The 7VFI.AI Rank Select goal is to simplify the "Do Your Own Research" (DYOR) process for users of all levels of expertise in the DeFi space.
 
-**Forward-moving plans:** 7VFI.AI aims to provide in addition to opportunities for yield on centralized exchanges, and exploration of NFT ecosystems, GameFi & Metaverses.
+**Forward-moving plans:** 7VFI.AI aims to provide in addition to a Protocol Analyzer Ranking Scorecard for Real Yield DeFi opportunities, its vision is to develop a series of scorecards for RWA protocols, opportunities for yield on centralized exchanges, NFT ecosystems, and GameFi & Metaverses.
