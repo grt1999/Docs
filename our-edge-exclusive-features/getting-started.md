@@ -6,7 +6,7 @@ description: Customize Your DeFi Journey
 
 Users will have the flexibility to individually participate in our three main modules:
 
-* **"Rank Select"**, granting access to our proprietary Analyzer Ranking Scorecard.
+* **"Rank Select"**, granting access to our proprietary Protocol Analyzer Ranking Scorecard.
 * **"AI Liquidity Master",** our automated concentrated liquidity provision system.
 * **"Venue Flow"**, where we streamline the process of finding the best venues for liquid staking tokens across various DeFi protocols, allowing investors to adopt a "set it and forget it" approach.&#x20;
 
