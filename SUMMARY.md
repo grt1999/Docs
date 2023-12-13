@@ -14,7 +14,6 @@
 * [7VFI.AI - Protocol Analyzer Scorecard: Rank Select](our-edge-exclusive-features/7vfi.ai-protocol-analyzer-scorecard-rank-select.md)
 * [7VFI.AI - Liquidity Provision Simulator: AI Liquidity Master](our-edge-exclusive-features/7vfi.ai-liquidity-provision-simulator-ai-liquidity-master.md)
 * [7VFI.AI - Liquid Staking Platform Integration: Venue Flow](our-edge-exclusive-features/7vfi.ai-liquid-staking-platform-integration-venue-flow.md)
-* [7VFI.AI - Money-Legos Module: Yield Supercharger](our-edge-exclusive-features/7vfi.ai-money-legos-module-yield-supercharger.md)
 * [🌅 Discovering New Frontiers](our-edge-exclusive-features/discovering-new-frontiers.md)
 
 ## Tokenomics
