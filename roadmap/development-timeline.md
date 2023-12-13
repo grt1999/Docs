@@ -25,33 +25,28 @@ description: >-
 
 ### **Q1/Q2-2024**
 
+* [ ] **Rank Select launch**
 * [ ] **Private allocation round**
 * [ ] **Public allocation round**
+* [ ] **Market making partnership agreement**
 * [ ] **Token generation event (TGE)**
 * [ ] **Launch dApp**
 
 ### **Q3/Q4-2024**
 
-* [ ] **Rank Select launch**
-* [ ] **AI Liquidity Master launch**
-* [ ] **Fiat on-ramp**
+* [ ] **Open access for Devs**
+* [ ] **AI Liquidity Master development with thirdparty Developers, Partners and Grant Donors**
 
 ### **Q1/Q2-2025**
 
-* [ ] **Venue Flow launch**
+* [ ] **Venue Flow development with third-party Developers, Partners and Grant Donors**
 * [ ] **Product Improvements**
 
 ### **Q3/Q4-2025**
 
 * [ ] **Extended roadmap reveal**
-* [ ] **Yield Supercharger launch**
+* [ ] **Starting of contract ownership renouncement for existing products**
 
 ### **Q1/Q2-2026**
 
-* [ ] **Starting of contract ownership renouncement for existing products**
 * [ ] **New products unveiling**
-
-### **Q3/Q4-2026**
-
-* [ ] **Open access for Devs**
-* [ ] **More to come..**
