@@ -6,7 +6,7 @@ description: >-
 
 # 7VFI.AI - Liquidity Provision Simulator: AI Liquidity Master
 
-This A.I. account abstraction tool will not only enable users to model different liquidity provision strategies based on proprietary AI and Machine Learning models but also integrate with liquidity pools from major decentralized exchanges, across various networks.&#x20;
+This A.I. account abstraction tool would not only enable users to model different liquidity provision strategies based on proprietary AI and Machine Learning models but also integrate with liquidity pools from major decentralized exchanges, across various networks.&#x20;
 
 The software would simulate the performance of concentrated liquidity provision strategies under various scenarios, providing insights into expected returns, impermanent loss calculations, and other relevant metrics, such as:
 
@@ -28,7 +28,7 @@ The software would simulate the performance of concentrated liquidity provision 
 
 ●     Educational resources and best practices
 
-As for the outputs, the software will strive to provide:
+## As for the outputs, the software would strive to provide:
 
 ●     AI-driven predictions on optimal range positions within certain time frames
 
