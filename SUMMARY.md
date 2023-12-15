@@ -10,7 +10,7 @@
 
 ## OUR EDGE (EXCLUSIVE FEATURES)
 
-* [🛠 Getting started](our-edge-exclusive-features/getting-started.md)
+* [🛠 Architects of DeFi](our-edge-exclusive-features/architects-of-defi.md)
 * [7VFI.AI - Protocol Analyzer Scorecard: Rank Select](our-edge-exclusive-features/7vfi.ai-protocol-analyzer-scorecard-rank-select.md)
 * [7VFI.AI - Liquidity Provision Simulator: AI Liquidity Master](our-edge-exclusive-features/7vfi.ai-liquidity-provision-simulator-ai-liquidity-master.md)
 * [7VFI.AI - Liquid Staking Platform Integration: Venue Flow](our-edge-exclusive-features/7vfi.ai-liquid-staking-platform-integration-venue-flow.md)

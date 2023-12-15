@@ -1,8 +1,8 @@
 ---
-description: Architects of DeFi
+description: Unparalleled possibilities
 ---
 
-# 🛠 Getting started
+# 🛠 Architects of DeFi
 
 7VFI.AI has multiple product concepts that could be further explored and improved utilizing our robust data infrastructure. These suggestions are based on our in-depth research into market bottlenecks, inefficient dynamics, and areas lacking user engagement that could be explored and improved.
 
